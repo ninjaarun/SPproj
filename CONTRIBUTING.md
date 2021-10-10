@@ -26,7 +26,7 @@ If you spot a problem with the docs, search if an issue already exists. If a rel
 Solve an issue
 Scan through our existing issues to find one that interests you. You can narrow down the search using labels as filters. See Labels for more information.
 
-Make Changes
+Make Changessd
 Make changes in the UI
-Click Make a contribution at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the .md file where you can make your changes and create a pull request for a review.
+Click Make a contribution at the bottom of asfny docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the .md file where you can make your changes and create a pull request for a review.
 
