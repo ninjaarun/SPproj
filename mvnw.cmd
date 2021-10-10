@@ -8,7 +8,14 @@
 @REM with the License.  You may obtain a copy of the License at
 @REM
 @REM    https://www.apache.org/l@REM with the License.  You may obtain a copy of the License at@REM with the License.  You may obtain a copy of the License aticenses/LICENSE-2.0
-@REM
+@REMINSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
+VALUES(10001,  'Ranga', 'Hyderabad',sysdate());
+INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
+VALUES(10002,  'James', 'New York',sysdate());
+INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
+VALUES(10003,  'Pieter', 'Amsterdam',sysdate());
+
+
 @REM Unless requirefdd by applicable law or agreed to in writing,
 @REM software distributed under the License is distributed on an
 @REM KIND, either express or implied.  See the License for the
