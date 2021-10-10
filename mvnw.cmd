@@ -9,7 +9,7 @@
 @REM
 @REM    https://www.apache.org/l@REM with the License.  You may obtain a copy of the License at@REM with the License.  You may obtain a copy of the License aticenses/LICENSE-2.0
 @REM
-@REM Unless required by applicable law or agreed to in writing,
+@REM Unless requirefdd by applicable law or agreed to in writing,
 @REM software distributed under the License is distributed on an
 @REM KIND, either express or implied.  See the License for the
 @REM specific language governing permissions and limitations
