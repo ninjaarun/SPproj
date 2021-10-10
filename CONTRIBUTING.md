@@ -9,7 +9,7 @@ Use the table of contents icon  on the top left corner of the this document to g
 
 New contributor guide
 See the README to get an overview of the project. Here are some helpful resources to get you comfortable with open source contribution:
-d
+ds
 Finding ways to contribute to open source on GitHub
 Set up Git
 GitHub flow
