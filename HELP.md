@@ -3,7 +3,7 @@ The following was discovered as part of building this project:
 
 * The original package name 'com.ninjaarun.database.database-demo' is invalid and this project uses 'com.ninjaarun.database.databasedemo' instead.
 
-# Getting Started
+# Getting Ssdtarted
 
 ### Reference Documentation
 For further reference, please consider the following sections:
