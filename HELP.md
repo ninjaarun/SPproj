@@ -9,7 +9,7 @@ The following was discovered as part of building this project:
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.0-SNAPSHOT/maven-plugin/reference/html/#build-image)
+* [Create an OCI image]dasasdasdas(https://docs.spring.io/spring-boot/docs/2.6.0-SNAPSHOT/maven-plugin/reference/html/#build-image)
 * [JDBC API](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-sql)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-developing-web-applications)
