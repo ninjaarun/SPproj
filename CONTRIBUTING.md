@@ -29,4 +29,4 @@ Scan through our existing issues to find one that interests you. You can narrow 
 Make Changessd
 Make changes in the UI
 Click Make a contribution at the bottom of asfny docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the .md file where you can make your changes and create a pull request for a review.
-
+1
