@@ -11,7 +11,7 @@
 	<artifactId>database-demo</artifactId>
 	<description>Demo project for Spring Boot</description>
 		<java.version>11</java.version>
-	</properties>
+	</properties>5
 	<dependen2cies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
