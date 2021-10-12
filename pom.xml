@@ -12,7 +12,7 @@
 	<description>Demo project for Spring Boot</description>
 		<java.version>11</java.version>
 	</properties>
-	<dependencies>
+	<dependen2cies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
