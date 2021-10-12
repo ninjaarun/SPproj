@@ -10,7 +10,6 @@
 	<groupId>com.ninjaarun.database</groupId>
 	<artifactId>database-demo</artifactId>
 	<description>Demo project for Spring Boot</description>
-		<java.version>11</java.version>
 	</properties>5
 	<dependen2cies>
 		<dependency>
