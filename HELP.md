@@ -13,7 +13,7 @@ For further reference, please consider the following sections:
 * [JDBC API](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-sql)
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-developing-web-applications)
-
+as
 ### Guides
 The following guides illustrate how to use some features concretely:
 
