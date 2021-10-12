@@ -11,7 +11,7 @@
 @REMINSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
 VALUES(10001,  'Ranga', 'Hyderabad',sysdate());
 INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
-VALUES(10002,  'James', 'New York',sysdate());
+VALUES(10002,  'James', 'New Yosadsrk',sysdate());
 INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
 VALUES(10003,  'Pieter', 'Amsterdam',sysdate());
 
