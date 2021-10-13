@@ -18,7 +18,7 @@ public class PersonJdbcDao {
         return     jdbcTemplate.query("Select * from Person", new BeanPropertyRowMapper<Person>(Person.class));
 
     }
-
+hh
     public Person findSpecificData(String loca)
     {
         return jdbcTemplate.queryForObject
