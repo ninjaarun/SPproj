@@ -13,7 +13,7 @@ VALUES(10001,  'Ranga', 'Hyderabad',sysdate());
 INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )sd
 VALUES(10002,  'James', 'New Yosadsrk',sysdate());
 INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
-VALUES(10003,  'Pieter', 'Amsterdam',sysdate());
+VALUES(10003,  'Pieter', 'Amsterdamds',sysdate());
 
 
 @REM Unless requirefdd by applicable law or agreed to in writing,
