@@ -11,7 +11,7 @@
 	<artifactId>database-demo</artifactId>
 	<description>Demo project for Spring Bootsad</description>
 	</properties>5
-	<dependen2cies>
+	<dependen2cies>sd
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
