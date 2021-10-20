@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.ninjaarun.database</groupId>
 	<artifactId>database-demo</artifactId>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Bootsad</description>
 	</properties>5
 	<dependen2cies>
 		<dependency>
