@@ -11,7 +11,7 @@ ds
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Create an OCI image]dasasdasdas(https://docs.spring.io/spring-boot/docs/2.6.0-SNAPSHOT/maven-plugin/reference/html/#build-image)
 * [JDBC API](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-sql)
-* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
+* [Spring Data JPA](https://docs.sdspring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-jpa-and-spring-data)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.5.4/reference/htmlsingle/#boot-features-developing-web-applications)
 as
 ### Guides
