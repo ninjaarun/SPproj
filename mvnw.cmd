@@ -10,7 +10,7 @@
 @REM    https://www.apache.org/l@REM with the License.  You may obtain a copy of the License at@REM with the License.  You may obtain a copy of the License aticenses/LICENSE-2.0
 @REMINSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
 VALUES(10001,  'Ranga', 'Hyderabad',sysdate());
-INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
+INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )sd
 VALUES(10002,  'James', 'New Yosadsrk',sysdate());
 INSERT INTO PERSON (ID, NAME, LOCATION, BIRTH_DATE )
 VALUES(10003,  'Pieter', 'Amsterdam',sysdate());
@@ -128,7 +128,7 @@ set WRAPPER_LAUNCHER=org.apache.maven.wrapper.MavenWrapperMain
 set DOWNLOAD_URL="https://repo.maven.apache.org/maven2/io/takari/maven-wrapper/0.5.6/maven-wrapper-0.5.6.jar"
 
 FOR /F "tokens=1,2 delims==" %%A IN ("%MAVEN_PROJECTBASEDIR%\.mvn\wrapper\maven-wrapper.properties") DO (
-    IF "%%A"=="wrapperUrl" SET DOWNLOAD_URL=%%B
+    IF "%%A"=="wrapperUsdrl" SET DOWNLOAD_URL=%%B
 )
 
 @REM Extension to allow automatically downloading the maven-wrapper.jar from Maven-central
