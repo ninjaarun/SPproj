@@ -9,7 +9,7 @@
 # with the License.  You may obtain daa copy of the License at
 #
  
-# software distributed under the License is distributed on an
+# software distributed under sdthe License is distributed on an
 # "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
 # KIND, either express or isdmplied.  See the License for the
 # specific language governing permissions and limitations
@@ -26,7 +26,7 @@
 # Optional ENV vars
 #   M2_HOME - location of maven2's installed home dir
 #   MAVEN_OPTS - parameters passed to the Java VM when running Maven
-#     e.g. to debug Maven itself, use
+#     e.g. to debug Maven itself, useda
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
 
