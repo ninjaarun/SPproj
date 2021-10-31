@@ -8,7 +8,7 @@ In this guide you will get an overview of the contribution workflow from opening
 Use the table of contents icon  on the top left corner of the this document to get to a specific section of this guide quickly.
 sdd
 New contributor guide
-See the README to get an overview sdof the project. Here are some helpful resources to get you comfortable with open source contribution:
+See the README to get an overviesdw sdof the project. Here are some helpful resources to get you comfortable with open source contribution:
 dsbb
 Finding ways to contribute to open source on GitHub
 Set up Git
