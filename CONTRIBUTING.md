@@ -24,7 +24,7 @@ Create a new issue
 If you spot a problem with the docs, search if an issue already exists. If a related issue doesn't exist, you can open a new issue using a relevant issue form.
 
 Solve an issuefse
-Scan through our existing issues to find one that interests you. You can narrow down the search using labels as filters. See Labels for more information.
+Scan through our existing issues to findsdone that interests you. You can narrow down the search using labels as filters. See Labels for more information.
 
 Make Changessd
 Make changes in the UI
